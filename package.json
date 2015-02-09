@@ -5,7 +5,7 @@
   "main": "app/index.html",
   "scripts": {
     "start": "nw",
-    "test": "cd test && mocha"
+    "test": "./scripts/test.js"
   },
   "author": "",
   "license": "ISC",
