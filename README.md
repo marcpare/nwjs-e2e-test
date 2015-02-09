@@ -3,8 +3,6 @@ E2E Testing with nw.js Example
 
 The [instructions](https://github.com/nwjs/nw.js/wiki/chromedriver) for setting up `chromedriver` for nw.js are mostly complete. This repo addresses some of the missing parts by example.
 
-**Only works on OS X by default**. Change the Download URLs in `scripts/installTestEnv.sh` for your platform.
-
 Mainly,
 
 1. How to specify the `package.json` used by the test runner
@@ -12,6 +10,8 @@ Mainly,
 3. Running tests with one command
 
 Latest version (nw.js alpha2) does not appear to load `package.json` properly when run through the chrome driver. We use `node-webkit-v0.11.6` for now.
+
+**Only works on OS X by default**. Change the Download URLs in `scripts/installTestEnv.sh` for your platform.
 
 Install:
 
