@@ -3,7 +3,7 @@ E2E Testing with nw.js Example
 
 The [instructions](https://github.com/nwjs/nw.js/wiki/chromedriver) for setting up `chromedriver` for nw.js are mostly complete. This repo addresses some of the missing parts by example.
 
-**Only works on OS X**. Change the Download URLs in `scripts/installTestEnv.sh` for your platform.
+**Only works on OS X by default**. Change the Download URLs in `scripts/installTestEnv.sh` for your platform.
 
 Mainly,
 
