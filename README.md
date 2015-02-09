@@ -11,7 +11,7 @@ Mainly,
 2. How to run tests from a directory besides the parent directory
 3. Running tests with one command
 
-Latest version (nw.js alpha2) does not appear to load `package.json` properly when run through the chrome driver.
+Latest version (nw.js alpha2) does not appear to load `package.json` properly when run through the chrome driver. We use `node-webkit-v0.11.6` for now.
 
 Install:
 
