@@ -33,6 +33,15 @@ The `chromedriver` for testing looks for a `package.json` in the same directory 
 
 A nice side effect of this is that we can implement merging of configuration files this way. The file `test/package_test.json` overrides properties in `package.json`. It is very short as a result.
 
+Helpful Links
+===
+
+* Instructions for setting up `chromedriver`: https://github.com/nwjs/nw.js/wiki/chromedriver
+* `wd` API for scripting tests: https://github.com/admc/wd/blob/master/doc/api.md
+* Chai https://github.com/domenic/chai-as-promised/
+* More Chai http://chaijs.com/api/bdd/
+* `webdriver-manager` https://github.com/angular/protractor/blob/master/bin/webdriver-manager
+
 Future
 ===
 
