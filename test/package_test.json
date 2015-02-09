@@ -1,0 +1,4 @@
+{
+  "name": "nwjs-e2e-test",
+  "main": "../../app/index.html"
+}

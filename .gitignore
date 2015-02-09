@@ -1,0 +1,7 @@
+test/env/package.json
+chromedriver
+node-webkit
+*.zip
+test/env/node-webkit*
+selenium-server*
+node_modules/

@@ -1,0 +1,20 @@
+{
+  "name": "nwjs-e2e-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app/index.html",
+  "scripts": {
+    "start": "nw",
+    "test": "cd test && mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nw": "^0.12.0-alpha2",
+    "chai-as-promised": "^4.1.1",
+    "colors": "^1.0.3",
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0",
+    "wd": "^0.3.11"
+  }
+}
